@@ -4,50 +4,66 @@
 	<titulo paginas="600">El Quijote de la Mancha</titulo>
 	<autor>
 		<nombre>Miguel</nombre>
-		<apellidos>de Cervantes</apellidos>
+		<apellido-paterno>de Cervantes</apellido-paterno>
+		<apellido.materno></apellido.materno>
 	</autor>
 	<editorial>Oveja Negra</editorial>
 	<precio>200.00</precio>
-	<fecha>2005</fecha>
+	<año>2005</año>
 </libro>
 <libro>
 	<titulo  paginas="500">Cien años de soledad</titulo>
 	<autor>
 		<nombre>Gabriel</nombre>
-		<apellidos>García Márquez</apellidos>
+		<apellido-paterno>García</apellido-paterno>
+		<apellido.materno>Márquez</apellido.materno>
 	</autor>
 	<editorial>Oveja Negra</editorial>
 	<precio>300.00</precio>
-	<fecha>2000</fecha>
+	<año>2000</año>
 </libro>
 <libro>
 	<titulo paginas="600">La guerra del fin del mundo</titulo>
 	<autor>
 		<nombre>Mario</nombre>
-		<apellidos>Vargas Llosa</apellidos>
+		<apellido-paterno>Vargas</apellido-paterno>
+		<apellido.materno>Llosa</apellido.materno>
 	</autor>
 	<editorial>El barco de vapor</editorial>
 	<precio>350.00</precio>
-	<fecha>2010</fecha>
+	<año>2010</año>
 </libro>
 <libro>
-	<titulo paginas="600">La casa verde</titulo>
+	<titulo paginas="600">La Casa Verde</titulo>
 	<autor>
 		<nombre>Mario</nombre>
-		<apellidos>Vargas Llosa</apellidos>
+		<apellido-paterno>Vargas</apellido-paterno>
+		<apellido.materno>Llosa</apellido.materno>
 	</autor>
 	<editorial>El barco de vapor</editorial>
 	<precio>450.00</precio>
-	<fecha>2000</fecha>
+	<año>2000</año>
 </libro>
 <libro>
-	<titulo paginas="600">Conversaciones en la catedral</titulo>
+	<titulo paginas="600">Conversación en la Catedral</titulo>
 	<autor>
 		<nombre>Mario</nombre>
-		<apellidos>Vargas Llosa</apellidos>
+		<apellido-paterno>Vargas</apellido-paterno>
+		<apellido.materno>Llosa</apellido.materno>
 	</autor>
 	<editorial>El barco de vapor</editorial>
 	<precio>650.00</precio>
-	<fecha>2018</fecha>
+	<año>2018</año>
+</libro>
+<libro>
+	<titulo paginas="600">Pantaleón y las visitadoras</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellido-paterno>Vargas</apellido-paterno>
+		<apellido.materno>Llosa</apellido.materno>
+	</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>650.00</precio>
+	<año>2018</año>
 </libro>
 </libros>

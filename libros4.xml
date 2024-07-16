@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros xmlns:lib="http://www.ejemplo.com/libros"
+	xmlns:aut="http://www.ejemplo.com/autores"
+	xmlns:otro="http://www.ejemplo.com/otro">
+<libro>
+	<titulo paginas="600">El Quijote de la Mancha</titulo>
+	<autor>
+		<nombre>Miguel</nombre>
+		<aut:apellido-paterno>de Cervantes</aut:apellido-paterno>
+		<aut:apellido.materno>Savedra</aut:apellido.materno>
+	</autor>
+	<lib:editorial>Oveja Negra</lib:editorial>
+	<lib:precio>200.00</lib:precio>
+	<lib:año>2005</lib:año>
+</libro>
+<libro>
+	<titulo  paginas="500">Cien años de soledad</titulo>
+	<autor>
+		<nombre>Gabriel</nombre>
+		<apellido-paterno>García</apellido-paterno>
+		<apellido.materno>Márquez</apellido.materno>
+	</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>300.00</precio>
+	<año>2000</año>
+</libro>
+<libro>
+	<titulo paginas="600">La guerra del fin del mundo</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellido-paterno>Vargas</apellido-paterno>
+		<apellido.materno>Llosa</apellido.materno>
+	</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>350.00</precio>
+	<año>2010</año>
+</libro>
+<libro>
+	<titulo paginas="600">La Casa Verde</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellido-paterno>Vargas</apellido-paterno>
+		<apellido.materno>Llosa</apellido.materno>
+	</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>450.00</precio>
+	<año>2000</año>
+</libro>
+<libro>
+	<titulo paginas="600">Conversación en la Catedral</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellido-paterno>Vargas</apellido-paterno>
+		<apellido.materno>Llosa</apellido.materno>
+	</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>650.00</precio>
+	<año>2018</año>
+</libro>
+<libro>
+	<titulo paginas="600">Pantaleón y las visitadoras</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellido-paterno>Vargas</apellido-paterno>
+		<apellido.materno>Llosa</apellido.materno>
+	</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>650.00</precio>
+	<año>2018</año>
+</libro>
+</libros>

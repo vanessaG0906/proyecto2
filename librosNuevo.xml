@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+<libro>
+	<titulo>El Quijote de la Mancha</titulo>
+	<autor>
+		<nombre>Miguel</nombre>
+		<apellidoPaterno>de Cervantes</apellidoPaterno>
+		<apellidoMaterno>Savedra</apellidoMaterno>
+	</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>300</precio>
+	
+</libro>
+<libro>
+	<titulo>Cien años de soledad</titulo>
+	<autor>
+		<nombre>Gabriel</nombre>
+		<apellidoPaterno>García</apellidoPaterno>
+		<apellidoMaterno>Márquez</apellidoMaterno>
+	</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>400</precio>
+	
+</libro>
+<libro>
+	<titulo>Crónica de una muerte anunciada</titulo>
+	<autor>
+		<nombre>Gabriel</nombre>
+		<apellidoPaterno>García</apellidoPaterno>
+		<apellidoMaterno>Márquez</apellidoMaterno>
+	</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>300</precio>
+	
+</libro>
+<libro>
+	<titulo>La guerra del fin del mundo</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellidoPaterno>Vargas</apellidoPaterno>
+		<apellidoMaterno>Llosa</apellidoMaterno>
+	</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>450</precio>
+	
+</libro>
+<libro>
+	<titulo>La Casa Verde</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellidoPaterno>Vargas</apellidoPaterno>
+		<apellidoMaterno>Llosa</apellidoMaterno>
+	</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>550</precio>
+	
+</libro>
+<libro>
+	<titulo>Conversación en la Catedral</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellidoPaterno>Vargas</apellidoPaterno>
+		<apellidoMaterno>Llosa</apellidoMaterno>
+	</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>750</precio>
+	
+</libro>
+<libro>
+	<titulo>Pantaleón y las visitadoras</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellidoPaterno>Vargas</apellidoPaterno>
+		<apellidoMaterno>Llosa</apellidoMaterno>
+	</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>750</precio>
+	
+</libro>
+<libro>
+	<titulo>La tía Julia y el escribidor</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellidoPaterno>Vargas</apellidoPaterno>
+		<apellidoMaterno>Llosa</apellidoMaterno>
+	</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>750</precio>
+	
+</libro>
+</libros>

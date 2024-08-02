@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+<libro>
+	<titulo paginas="600">El Quijote de la Mancha</titulo>
+	<autor>
+		<nombre>Miguel</nombre>
+		<apellidoPaterno>de Cervantes</apellidoPaterno>
+		<apellidoMaterno>Savedra</apellidoMaterno>
+	</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>200.00</precio>
+	<año>2005</año>
+</libro>
+<libro>
+	<titulo  paginas="500">Cien años de soledad</titulo>
+	<autor>
+		<nombre>Gabriel</nombre>
+		<apellidoPaterno>García</apellidoPaterno>
+		<apellidoMaterno>Márquez</apellidoMaterno>
+	</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>300.00</precio>
+	<año>2000</año>
+</libro>
+<libro>
+	<titulo paginas="200">Crónica de una muerte anunciada</titulo>
+	<autor>
+		<nombre>Gabriel</nombre>
+		<apellidoPaterno>García</apellidoPaterno>
+		<apellidoMaterno>Márquez</apellidoMaterno>
+	</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>200.00</precio>
+	<año>1996</año>
+</libro>
+<libro>
+	<titulo paginas="600">La guerra del fin del mundo</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellidoPaterno>Vargas</apellidoPaterno>
+		<apellidoMaterno>Llosa</apellidoMaterno>
+	</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>350.00</precio>
+	<año>2010</año>
+</libro>
+<libro>
+	<titulo paginas="600">La Casa Verde</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellidoPaterno>Vargas</apellidoPaterno>
+		<apellidoMaterno>Llosa</apellidoMaterno>
+	</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>450.00</precio>
+	<año>2000</año>
+</libro>
+<libro>
+	<titulo paginas="600">Conversación en la Catedral</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellidoPaterno>Vargas</apellidoPaterno>
+		<apellidoMaterno>Llosa</apellidoMaterno>
+	</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>650.00</precio>
+	<año>2018</año>
+</libro>
+<libro>
+	<titulo paginas="600">Pantaleón y las visitadoras</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellidoPaterno>Vargas</apellidoPaterno>
+		<apellidoMaterno>Llosa</apellidoMaterno>
+	</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>650.00</precio>
+	<año>2018</año>
+</libro>
+<libro>
+	<titulo paginas="600">La tía Julia y el escribidor</titulo>
+	<autor>
+		<nombre>Mario</nombre>
+		<apellidoPaterno>Vargas</apellidoPaterno>
+		<apellidoMaterno>Llosa</apellidoMaterno>
+	</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>650.00</precio>
+	<año>2018</año>
+</libro>
+</libros>

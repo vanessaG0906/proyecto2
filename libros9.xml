@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+<libro>
+	<titulo paginas="600">El Quijote de la Mancha</titulo>
+	<autor>Miguel de Cervantes</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>200.00</precio>
+	<fecha>2005</fecha>
+</libro>
+<libro>
+	<titulo  paginas="587">Cien años de soledad</titulo>
+	<autor>Gabriel García Márquez</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>300.00</precio>
+	<fecha>2000</fecha>
+</libro>
+<libro>
+	<titulo  paginas="654">El General en su laberinto</titulo>
+	<autor>Gabriel García Márquez</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>350.00</precio>
+	<fecha>2005</fecha>
+</libro>
+<libro>
+	<titulo  paginas="765">El amor en los tiempos del cólera</titulo>
+	<autor>Gabriel García Márquez</autor>
+	<editorial>Oveja Negra</editorial>
+	<precio>750.00</precio>
+	<fecha>2007</fecha>
+</libro>
+<libro>
+	<titulo  paginas="500">El laberinto de la soledad</titulo>
+	<autor>Octavio Paz</autor>
+	<editorial>Diana</editorial>
+	<precio>300.00</precio>
+	<fecha>2002</fecha>
+</libro>
+<libro>
+	<titulo  paginas="200">La soledad de los números primos</titulo>
+	<autor>Paolo Giordano</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>350.00</precio>
+	<fecha>2005</fecha>
+</libro>
+<libro>
+	<titulo  paginas="100">El laberinto del fauno</titulo>
+	<autor>Guillermo Del Toro</autor>
+	<editorial>Diana</editorial>
+	<precio>250.00</precio>
+	<fecha>2008</fecha>
+</libro>
+<libro>
+	<titulo  paginas="150">La soledad del portero</titulo>
+	<autor>Santy Menor</autor>
+	<editorial>Diana</editorial>
+	<precio>450.00</precio>
+	<fecha>2010</fecha>
+</libro>
+<libro>
+	<titulo paginas="600">La guerra del fin del mundo</titulo>
+	<autor>Mario Vargas Llosa</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>350.00</precio>
+	<fecha>2010</fecha>
+</libro>
+<libro>
+	<titulo paginas="600">La casa verde</titulo>
+	<autor>Mario Vargas Llosa</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>450.00</precio>
+	<fecha>2000</fecha>
+</libro>
+<libro>
+	<titulo paginas="600">Conversaciones en la Catedral</titulo>
+	<autor>Mario Vargas Llosa</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>650.00</precio>
+	<fecha>2018</fecha>
+</libro>
+<libro>
+	<titulo paginas="600">La tía Julia y el escribidor</titulo>
+	<autor>Mario Vargas Llosa</autor>
+	<editorial>El barco de vapor</editorial>
+	<precio>650.00</precio>
+	<fecha>2008</fecha>
+</libro>
+<libro>
+	<titulo paginas="600">La ciudad y los perros</titulo>
+	<autor>Mario Vargas Llosa</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>550.00</precio>
+	<fecha>2002</fecha>
+</libro>
+<libro>
+	<titulo paginas="600">Crónica de una muerte anunciada</titulo>
+	<autor>Gabriel García Márquez</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>550.00</precio>
+	<fecha>2004</fecha>
+</libro>
+<libro>
+	<titulo paginas="200">Relato de un náufrago</titulo>
+	<autor>Gabriel García Márquez</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>250.00</precio>
+	<fecha>2014</fecha>
+</libro>
+<libro>
+	<titulo paginas="300">El coronel no tiene quien le escriba</titulo>
+	<autor>Gabriel García Márquez</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>350.00</precio>
+	<fecha>2013</fecha>
+</libro>
+<libro>
+	<titulo paginas="350">La increíble y triste historia de la cándida Eréndira y de su abuela desalmada</titulo>
+	<autor>Gabriel García Márquez</autor>
+	<editorial>Diana</editorial>
+	<precio>150.00</precio>
+	<fecha>2001</fecha>
+</libro>
+<libro>
+	<titulo paginas="350">Elogio a la ceguera</titulo>
+	<autor>José Saramago</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>350.00</precio>
+	<fecha>2012</fecha>
+</libro>
+<libro>
+	<titulo paginas="450">El evangelio según jesucristo</titulo>
+	<autor>José Saramago</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>450.00</precio>
+	<fecha>2013</fecha>
+</libro>
+<libro>
+	<titulo paginas="250">El hombre duplicado</titulo>
+	<autor>José Saramago</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>350.00</precio>
+	<fecha>2014</fecha>
+</libro>
+<libro>
+	<titulo paginas="350">Viaje a Portugal</titulo>
+	<autor>José Saramago</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>250.00</precio>
+	<fecha>2015</fecha>
+</libro>
+<libro>
+	<titulo paginas="150">Casi un objeto</titulo>
+	<autor>José Saramago</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>200.00</precio>
+	<fecha>2016</fecha>
+</libro>
+<libro>
+	<titulo paginas="250">Todos los nombres</titulo>
+	<autor>José Saramago</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>250.00</precio>
+	<fecha>2017</fecha>
+</libro>
+<libro>
+	<titulo paginas="250">La llamada de la tribu</titulo>
+	<autor>Mario Vargas Llosa</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>350.00</precio>
+	<fecha>2019</fecha>
+</libro>
+<libro>
+	<titulo paginas="250">Los cuadernos de don Rigoberto</titulo>
+	<autor>Mario Vargas Llosa</autor>
+	<editorial>Alfaguara</editorial>
+	<precio>350.00</precio>
+	<fecha>2018</fecha>
+</libro>
+<libro>
+	<titulo paginas="1250">La guerra y la paz</titulo>
+	<autor>León Tolstói</autor>
+	<editorial>Diana</editorial>
+	<precio>450.00</precio>
+	<fecha>2019</fecha>
+</libro>
+</libros>
